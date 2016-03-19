@@ -1,0 +1,7 @@
+*.app
+*.beam
+deps/
+.rebar/
+.eunit/
+.DS_Store
+tags
