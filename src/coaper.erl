@@ -1,7 +1,7 @@
--module(coap).
+-module(coaper).
 -author("ikpark@gmail.com").
 
--include("coap.hrl").
+-include("coaper.hrl").
 
 -export([packit/1, parse/1]).
 

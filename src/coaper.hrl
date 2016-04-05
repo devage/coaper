@@ -5,6 +5,7 @@
 -define(ACK_RANDOM_FACTOR, 1.5).
 -define(MAX_RETRANS, 4).
 
+% @todo: records should be changed to maps
 -record(coap_msg, {
           % meta
           uri,
